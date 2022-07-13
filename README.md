@@ -6,6 +6,9 @@
 - 📫 How to reach me: talita.nuness@yahoo.com.br
 - 😄 Pronouns: ela/dela
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/talitanunes/github-readme-stats)
+
 <div align="center">
   <a href="https://github.com/talitanunes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talitanunes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
