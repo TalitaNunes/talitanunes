@@ -17,18 +17,10 @@
   
   ##
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talitanunes&layout=compact)](https://github.com/talitanunes/github-readme-stats)
-
-  
+ 
 - 🔭 I’m currently working on Data Analytics, Power BI, SQL, R 
 - 🌱 I’m currently learning, Machine Learning, Statistics, R, Python
 - 🤔 I’m looking for help with, Machine Learning, Hyparameter tunning
 - 📫 How to reach me: talita.nuness@yahoo.com.br
 - 😄 Pronouns: ela/dela
-
-
-<!--
-**TalitaNunes/talitanunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
