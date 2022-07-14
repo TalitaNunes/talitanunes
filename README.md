@@ -23,4 +23,5 @@
 - 🤔 I’m looking for help with, Machine Learning, Hyparameter tunning
 - 📫 How to reach me: talita.nuness@yahoo.com.br
 - 😄 Pronouns: ela/dela
+-
 
