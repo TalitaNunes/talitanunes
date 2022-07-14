@@ -1,4 +1,8 @@
 ### Oie :) Eu sou a Talita Nunes 👋
+- 🔭 I’m currently working on Data Analytics, Power BI, SQL, R 
+- 🌱 I’m currently learning, Machine Learning, Statistics, R, Python
+- 📫 How to reach me: talita.nuness@yahoo.com.br
+
 
 <div align="center">
   <a href="https://github.com/talitanunes">
@@ -16,22 +20,9 @@
 </div>
   
   ##
-
  
-   
 <div> 
   <a href="https://www.linkedin.com/in/talita-nunes-a10086160" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/talitanunes/talitanunes/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
   
   
-  
-- 🔭 I’m currently working on Data Analytics, Power BI, SQL, R 
-- 🌱 I’m currently learning, Machine Learning, Statistics, R, Python
-- 🤔 I’m looking for help with, Machine Learning, Hyparameter tunning
-- 📫 How to reach me: talita.nuness@yahoo.com.br
-- 😄 Pronouns: ela/dela
-
-
