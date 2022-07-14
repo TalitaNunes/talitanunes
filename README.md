@@ -1,20 +1,10 @@
 ### Oie :) Eu sou a Talita Nunes 👋
 
-- 🔭 I’m currently working on Data Analytics, Power BI, SQL, R 
-- 🌱 I’m currently learning, Machine Learning, Statistics, R, Python
-- 🤔 I’m looking for help with, Machine Learning, Hyparameter tunning
-- 📫 How to reach me: talita.nuness@yahoo.com.br
-- 😄 Pronouns: ela/dela
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/talitanunes/github-readme-stats)
-
 <div align="center">
   <a href="https://github.com/talitanunes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talitanunes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talitanunes&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
-
         
 <div style="display: inline_block"><br>
   <img align="center" alt="Talita-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
@@ -26,6 +16,15 @@
 </div>
   
   ##
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talitanunes&layout=compact)](https://github.com/talitanunes/github-readme-stats)
+
+  
+- 🔭 I’m currently working on Data Analytics, Power BI, SQL, R 
+- 🌱 I’m currently learning, Machine Learning, Statistics, R, Python
+- 🤔 I’m looking for help with, Machine Learning, Hyparameter tunning
+- 📫 How to reach me: talita.nuness@yahoo.com.br
+- 😄 Pronouns: ela/dela
 
 
 <!--
